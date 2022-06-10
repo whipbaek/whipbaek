@@ -2,7 +2,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/whipbaek@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
 📗 Daegu, Kyungpook High School <br>
 📙 Daegu, Kyungpook National University <br>
-💻 Computer science
+💻 Computer cience
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whipbaek&show_icons=true&theme=swift)
