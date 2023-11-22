@@ -3,6 +3,9 @@
 📙 Daegu, Kyungpook National University <br>
 💻 Computer Science
 
+📔 <i>스마일게이트 윈터데브캠프 22.12 ~ 23.02</i> <br>
+📔 <i>네이버 부스트캠프 웹・모바일 8기</i> 23.07 ~
+
 `Backend Developer` 
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <br>
