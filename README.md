@@ -1,10 +1,12 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/whipbaek@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
-📗 Daegu, Kyungpook High School <br>
+
 📙 Daegu, Kyungpook National University <br>
 💻 Computer Science
 
 📔 <i>스마일게이트 윈터데브캠프 22.12 ~ 23.02</i> <br>
 📔 <i>네이버 부스트캠프 웹・모바일 8기 23.07 ~ 23.12 </i>
+
+💼 <i> Hyundai AutoEver 24.01 ~ </i>
 
 `Backend Developer` 
 
